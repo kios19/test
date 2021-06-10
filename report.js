@@ -11,7 +11,7 @@ module.exports = React.createClass({
     return {
       text: 'nikucheza tu',
       start: false,
-      api: true,
+      api: false,
       data: [],
       loading: true
     };
