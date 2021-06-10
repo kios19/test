@@ -2,7 +2,7 @@ var css = require('sheetify')
 var React = require('react')
 var ReactDOM = require('react-dom')
 
-var Report = require('./report.jsx')
+var Report = require('./report.js')
 
 css('./style.css', { global: true })
 
